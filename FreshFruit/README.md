@@ -4,8 +4,8 @@
 
 ## Scope of functionalities
 
--   User bisa menekan tombol `Add`untuk menambahkan list buah kedalam keranjang.
--   User bisa menekan tombol `Hapus` untuk menghapus list buah kedalam keranjang.
+-   User bisa menekan tombol `Add`untuk menambahkan list buah ke dalam keranjang.
+-   User bisa menekan tombol `Hapus` untuk menghapus list buah di dalam keranjang.
 -   User akan mendapat notifikasi `Ops, keranjang penuh !` jika keranjang terisi penuh
 
 ## How does it works?
